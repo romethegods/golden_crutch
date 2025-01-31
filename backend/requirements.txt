@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+celery
+psycopg2-binary
+crawl4ai
+pydantic-ai
+sentence-transformers
+faiss-cpu
+redis
+pandas
+numpy
+python-dotenv
+pgvector
+httpx
+python-unsplash
+requests
